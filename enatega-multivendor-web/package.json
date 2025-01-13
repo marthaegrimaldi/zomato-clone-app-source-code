@@ -7,13 +7,12 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.1",
-    "@mui/lab": "^5.0.0-alpha.48",
+    "@mui/lab": "^5.0.0-alpha.172",
     "@mui/material": "^5.0.1",
     "@mui/styles": "^5.0.1",
     "@react-google-maps/api": "^2.0.2",
     "@sentry/react": "^6.16.1",
     "@sentry/tracing": "^6.16.1",
-    "@tawk.to/tawk-messenger-react": "^1.0.0",
     "@types/react": "^17.0.24",
     "amplitude-js": "^8.14.1",
     "autosuggest-highlight": "^3.1.1",
@@ -22,6 +21,7 @@
     "env-cmd": "^10.1.0",
     "firebase": "^9.4.0",
     "flatlist-react": "^1.5.0",
+    "gapi-script": "^1.2.0",
     "graphql": "^15.4.0",
     "i18next": "^23.7.6",
     "lodash": "^4.17.21",
@@ -46,7 +46,9 @@
     "react-star-ratings": "^2.3.0",
     "react-stripe-checkout": "^2.6.3",
     "source-map-explorer": "^2.5.2",
-    "stripe": "^12.3.0",
+
+    "stripe": "^16.2.0",
+
     "subscriptions-transport-ws": "^0.9.19",
     "uuid": "^8.3.2",
     "web-vitals": "^0.2.4"
