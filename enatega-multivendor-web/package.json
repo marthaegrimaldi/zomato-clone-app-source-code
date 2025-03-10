@@ -49,7 +49,7 @@
 
     "stripe": "^17.5.0",
 
-    "subscriptions-transport-ws": "^0.9.19",
+    "subscriptions-transport-ws": "^0.11.0",
     "uuid": "^11.0.5",
     "web-vitals": "^4.2.4"
   },
