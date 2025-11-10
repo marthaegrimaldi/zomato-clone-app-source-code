@@ -61,7 +61,7 @@
 
     "expo-dev-client": "~5.0.9",
 
-    "expo-device": "~5.9.3",
+    "expo-device": "~8.0.9",
     "expo-font": "~11.10.2",
     "expo-image-picker": "~14.7.1",
     "expo-linear-gradient": "^12.7.2",
